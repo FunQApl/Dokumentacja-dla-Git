@@ -9,9 +9,13 @@
 
 ## Czcionki
 *kursywa - 1 sposób* 
+
 _kursywa - 2 sposób_
+
 **pogrubiona**
+
 ***kursywa, pogrubiona*** 
+
 ~~przekreślenie~~
 
 ## Lista nieuporządkowana
@@ -27,8 +31,8 @@ _kursywa - 2 sposób_
 
 ## Lista mieszana
 1. Punkt listy uporządkowanej
-    - punkt listy nieuporządkowanej poziom niżej
-      - kolejny punkt listy, jeszcze jedne poziom niżej
+    * punkt listy nieuporządkowanej poziom niżej
+      + kolejny punkt listy, jeszcze jedne poziom niżej
 
 ## Lista zadań
 
@@ -37,8 +41,11 @@ _kursywa - 2 sposób_
  - [ ] (Opcja) Trzecie zadanie
 
 ## Cytowanie tekstu
-> pierwsza linijka tekstu zacytowanego
-> druga linijka tekstu zacytowanego
+> Cytat
+> > cytat w cytacie
+> 
+> 1. Lista punktowana w cytacie
+> 2. drugi punkt listy
 
 ## Wprowadzanie kodu
 `jedna linijka z kodu`
@@ -56,12 +63,19 @@ trzecia linijka
 
 
 ## Linki
-http://funqa.pl
-[FunQA](http://funqa.pl)
+Link bez opisu: http://funqa.pl
+
+Link z opisem: [FunQA](http://funqa.pl)
 
 ## Zdjęcia 
+Zdjęcie bez opisu po najechaniu myszką:
+
 ![](http://www.funqa.pl/wp-content/uploads/2021/08/FunQALogo.png)
+
+Zdjęcie z opisem po najechaniu myszką:
+
 ![](http://www.funqa.pl/wp-content/uploads/2021/08/FunQALogo.png "FunQA")
+
 ## Znaczniki
 ![](https://img.shields.io/badge/tag-v.1.5.0-blue) ![](https://img.shields.io/badge/release-v.1.5.0-blue) ![](https://img.shields.io/badge/forks-1.9k-green) ![](https://img.shields.io/badge/coverage-20%25-red)
 
