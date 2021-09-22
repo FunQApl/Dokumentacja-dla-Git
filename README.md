@@ -34,9 +34,9 @@ _kursywa - 2 sposób_
 
 ## Lista zadań
 
- - [x] Pierwsze zadanie
- - [ ] Drugie zadanie
- - [ ] (Opcja) Trzecie zadanie
+- [x] Pierwsze zadanie
+- [ ] Drugie zadanie
+- [ ] (Opcja) Trzecie zadanie
 
 ## Cytowanie tekstu
 > Cytat
@@ -48,7 +48,8 @@ _kursywa - 2 sposób_
 ## Wprowadzanie kodu
 `jedna linijka z kodu`
 
-```wiele linijek kodu - pierwsza linijka
+```
+wiele linijek kodu - pierwsza linijka
 druga linijka
 trzecia linijka
 ```
