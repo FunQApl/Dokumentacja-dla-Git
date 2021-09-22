@@ -14,14 +14,12 @@ _kursywa - 2 sposób_
 
 **pogrubiona**
 
-***kursywa, pogrubiona*** 
-
-~~przekreślenie~~
+**_kursywa, pogrubiona_** 
 
 ## Lista nieuporządkowana
-- punkt listy 
-- kolejny punkt listy
-- i kolejny punkt listy
+* punkt listy 
+* kolejny punkt listy
+* i kolejny punkt listy
 
 ## Lista uporządkowana
 
@@ -80,9 +78,9 @@ Zdjęcie z opisem po najechaniu myszką:
 ![](https://img.shields.io/badge/tag-v.1.5.0-blue) ![](https://img.shields.io/badge/release-v.1.5.0-blue) ![](https://img.shields.io/badge/forks-1.9k-green) ![](https://img.shields.io/badge/coverage-20%25-red)
 
 ## Spis treści
-* [Syrena 105L](#syrena-105l)
-* [Fiat](#fiat)
-### Syrena 105L
-Kolor kość słoniowa
-### Fiat
-Kolor czerwony
+* [Punkt pierwszy spisu](#punkt-pierwszy-spisu)
+* [Punkt drugi spisu](#punkt-drugi-spisu)
+### Punkt pierwszy spisu
+Jakaś treść
+### Punkt drugi spisu
+Jakaś treść
